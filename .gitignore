@@ -1,0 +1,21 @@
+# Roblox files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
