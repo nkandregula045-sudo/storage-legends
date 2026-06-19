@@ -1,0 +1,3 @@
+-- This is a RemoteEvent - Create in Studio as Instance > RemoteEvent
+-- Fired when a new hourly event activates
+-- Parameters: eventType, duration, multiplier

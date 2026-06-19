@@ -1,0 +1,3 @@
+-- This is a RemoteEvent - Create in Studio as Instance > RemoteEvent
+-- Fired when player requests a trade
+-- Parameters: tradeId, playerA, playerB, itemA, itemB
